@@ -1,0 +1,6 @@
+research_task:
+  description: >
+    Pesquisa as informações mais relevantes sobre {topic} e apresenta-as de forma clara e concisa.
+  expected_output: >
+    Informações relevantes sobre {topic} apresentadas de forma clara e concisa.
+    Fontes de informação utilizadas.
